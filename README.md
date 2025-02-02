@@ -1,6 +1,6 @@
 PAC_MAN_GAME (MAZE)
 
-This is a Python-based implementation of the classic Pac-Man game. The game features a grid layout where Pac-Man collects dots, avoids ghosts, and gains temporary power-ups to eat ghosts. The goal is to collect all the dots while avoiding losing all lives.
+This is a 2D displayed Python-based implementation of the classic Pac-Man game. The game features a grid layout where Pac-Man collects dots, avoids ghosts, and gains temporary power-ups to eat ghosts. The goal is to collect all the dots while avoiding losing all lives.
 
 FEATURES
 
