@@ -13,3 +13,5 @@ FEATURES
 - Lives System: Pac-Man starts with 3 lives and loses one upon collision with a ghost (unless powered up).
 
 - Interactive Gameplay: Use directional inputs (up, down, left, right) to navigate the maze.
+
+Version 2 : contains 2D display and pygame technology is used.
